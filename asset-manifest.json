@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AI-Emojis/static/css/main.fa5c74c7.chunk.css",
+    "main.js": "/AI-Emojis/static/js/main.02258197.chunk.js",
+    "main.js.map": "/AI-Emojis/static/js/main.02258197.chunk.js.map",
+    "runtime-main.js": "/AI-Emojis/static/js/runtime-main.183272f1.js",
+    "runtime-main.js.map": "/AI-Emojis/static/js/runtime-main.183272f1.js.map",
+    "static/js/2.f748b66b.chunk.js": "/AI-Emojis/static/js/2.f748b66b.chunk.js",
+    "static/js/2.f748b66b.chunk.js.map": "/AI-Emojis/static/js/2.f748b66b.chunk.js.map",
+    "index.html": "/AI-Emojis/index.html",
+    "precache-manifest.8a63bd15b4dde9d14f4716d8a9a10ff7.js": "/AI-Emojis/precache-manifest.8a63bd15b4dde9d14f4716d8a9a10ff7.js",
+    "service-worker.js": "/AI-Emojis/service-worker.js",
+    "static/css/main.fa5c74c7.chunk.css.map": "/AI-Emojis/static/css/main.fa5c74c7.chunk.css.map",
+    "static/js/2.f748b66b.chunk.js.LICENSE.txt": "/AI-Emojis/static/js/2.f748b66b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.183272f1.js",
+    "static/js/2.f748b66b.chunk.js",
+    "static/css/main.fa5c74c7.chunk.css",
+    "static/js/main.02258197.chunk.js"
+  ]
+}
