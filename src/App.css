@@ -5,7 +5,7 @@ body {
 .app {
 	overflow: hidden;
 	background-color: #16a085;
-	background-image: url('/hero-bg.png');
+	background-image: url('./hero-bg.png');
 }
 
 .app {
