@@ -15,6 +15,8 @@ To use the live demo:
 ## Taking a look inside
 
 ![App demo](https://github.com/louiejancevski/FaceEmotionDetector/blob/master/public/demo.png)
+![App demo](https://github.com/louiejancevski/FaceEmotionDetector/blob/master/public/demo1.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
