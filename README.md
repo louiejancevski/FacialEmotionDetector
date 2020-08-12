@@ -20,12 +20,25 @@ Face-API.js was used to faciliate this process. You can read more about it [here
 **Note**: You are not being recorded at any point, it all happens in your own browser!
 
 ## Taking a look inside
+I'm going to take Dwayne Johnson, The Rock, as an example to showcase the site. 
+
+Very straightforward. 
+
+Whenever he smiles, the emoji turns into a lauging emoji, and the background color changes to gree.
 
 ![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo.png)
+
+On the other side,
+
+If he looks a bit angry, the app will also catch that and display the right emoji and background color. 
+
 ![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo1.png)
+
+Same thing happens whenever the expression might look a bit neutral. 
+
+The emoji gets changed, and the background color gets updated as well.
+
 ![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo2.png)
-
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
