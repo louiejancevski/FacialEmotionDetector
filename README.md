@@ -1,12 +1,12 @@
 
-## Face Emotion Detector
+## Facial Emotion Detector
 - Web app that detects your face emotions using AI and matches them with emojis.
 - Built using ReactJS and face-API.js
 - Face-API.js is a JavaScript API for face detection and face recognition in the browser implemented on top of the tensorflow.js core API.
 - Version 1.0
 
 ## URL / Live demo
-- [louiejancevski.github.io/FaceEmotionDetector/](https://louiejancevski.github.io/FaceEmotionDetector/)
+- [louiejancevski.github.io/FacialEmotionDetector/](https://louiejancevski.github.io/FacialEmotionDetector/)
 
 ## About this project
 The main objective was very simple, to display emojis based on the facial expressions that we make in front of our camera.
@@ -20,12 +20,25 @@ Face-API.js was used to faciliate this process. You can read more about it [here
 **Note**: You are not being recorded at any point, it all happens in your own browser!
 
 ## Taking a look inside
+I'm going to take Dwayne Johnson, The Rock, as an example to showcase the site. 
 
-![App demo image](https://github.com/louiejancevski/FaceEmotionDetector/blob/master/public/demo.png)
-![App demo image](https://github.com/louiejancevski/FaceEmotionDetector/blob/master/public/demo1.png)
-![App demo image](https://github.com/louiejancevski/FaceEmotionDetector/blob/master/public/demo2.png)
+Very straightforward. 
 
+Whenever he smiles, the emoji turns into a lauging emoji, and the background color changes to gree.
 
+![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo.png)
+
+On the other side,
+
+If he looks a bit angry, the app will also catch that and display the right emoji and background color. 
+
+![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo1.png)
+
+Same thing happens whenever the expression might look a bit neutral. 
+
+The emoji gets changed, and the background color gets updated as well.
+
+![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo2.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
