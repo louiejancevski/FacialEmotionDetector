@@ -5,7 +5,7 @@ function App() {
 	return (
 		<>
 			<div id="app" className="app">
-				<div class="text">
+				<div className="text">
 					<span aria-label="emoji" role="img" id="emoji">
 						😐
 					</span>
