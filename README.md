@@ -17,7 +17,7 @@ Once the app detects your face, it will do two things:
 
 Face-API.js was used to faciliate this process. You can read more about it [here](https://justadudewhohacks.github.io/face-api.js/docs/).
 
-**Note**: You are not being recorded, it all happens in your own browser!
+**Note**: You are not being recorded at any point, it all happens in your own browser!
 
 ## Taking a look inside
 
