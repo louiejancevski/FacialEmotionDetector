@@ -6,7 +6,6 @@
 - Version 1.0
 
 ## URL / Live version
-To use the live demo:
 - [louiejancevski.github.io/FaceEmotionDetector/](https://louiejancevski.github.io/FaceEmotionDetector/)
 
 ## About this project
