@@ -9,12 +9,22 @@
 - [louiejancevski.github.io/FaceEmotionDetector/](https://louiejancevski.github.io/FaceEmotionDetector/)
 
 ## About this project
+The main objective was very simple, to display emojis based on the facial expressions that we make in front of our camera.
 
+Once the app detects your face, it will do two things:
+- Change the background color.
+- Replace the default emoji with the one that it thinks is the best match to your expression.
+
+Face-API.js was used to faciliate this process. You can read more about it [here](https://justadudewhohacks.github.io/face-api.js/docs/).
+
+**Note**: You are not being recorded at any point, it all happens in your own browser!
 
 ## Taking a look inside
 
-![App demo](https://github.com/louiejancevski/FaceEmotionDetector/blob/master/public/demo.png)
-![App demo](https://github.com/louiejancevski/FaceEmotionDetector/blob/master/public/demo1.png)
+![App demo image](https://github.com/louiejancevski/FaceEmotionDetector/blob/master/public/demo.png)
+![App demo image](https://github.com/louiejancevski/FaceEmotionDetector/blob/master/public/demo1.png)
+![App demo image](https://github.com/louiejancevski/FaceEmotionDetector/blob/master/public/demo2.png)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
