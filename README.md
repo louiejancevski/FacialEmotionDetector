@@ -6,7 +6,7 @@
 - Version 1.0
 
 ## URL / Live demo
-- [louiejancevski.github.io/FaceEmotionDetector/](https://louiejancevski.github.io/FaceEmotionDetector/)
+- [louiejancevski.github.io/FacialEmotionDetector/](https://louiejancevski.github.io/FacialEmotionDetector/)
 
 ## About this project
 The main objective was very simple, to display emojis based on the facial expressions that we make in front of our camera.
@@ -21,9 +21,9 @@ Face-API.js was used to faciliate this process. You can read more about it [here
 
 ## Taking a look inside
 
-![App demo image](https://github.com/louiejancevski/FaceEmotionDetector/blob/master/public/demo.png)
-![App demo image](https://github.com/louiejancevski/FaceEmotionDetector/blob/master/public/demo1.png)
-![App demo image](https://github.com/louiejancevski/FaceEmotionDetector/blob/master/public/demo2.png)
+![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo.png)
+![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo1.png)
+![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo2.png)
 
 
 
