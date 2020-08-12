@@ -5,8 +5,7 @@
 - Face-API.js is a JavaScript API for face detection and face recognition in the browser implemented on top of the tensorflow.js core API.
 - Version 1.0
 
-## URL / Live version
-To use the live demo:
+## URL / Live demo
 - [louiejancevski.github.io/FaceEmotionDetector/](https://louiejancevski.github.io/FaceEmotionDetector/)
 
 ## About this project
@@ -15,6 +14,8 @@ To use the live demo:
 ## Taking a look inside
 
 ![App demo](https://github.com/louiejancevski/FaceEmotionDetector/blob/master/public/demo.png)
+![App demo](https://github.com/louiejancevski/FaceEmotionDetector/blob/master/public/demo1.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
