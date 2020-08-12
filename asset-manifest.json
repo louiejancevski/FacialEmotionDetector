@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/AI-Emojis/static/css/main.d2015af3.chunk.css",
-    "main.js": "/AI-Emojis/static/js/main.cf73c954.chunk.js",
-    "main.js.map": "/AI-Emojis/static/js/main.cf73c954.chunk.js.map",
-    "runtime-main.js": "/AI-Emojis/static/js/runtime-main.183272f1.js",
-    "runtime-main.js.map": "/AI-Emojis/static/js/runtime-main.183272f1.js.map",
-    "static/js/2.f748b66b.chunk.js": "/AI-Emojis/static/js/2.f748b66b.chunk.js",
-    "static/js/2.f748b66b.chunk.js.map": "/AI-Emojis/static/js/2.f748b66b.chunk.js.map",
-    "index.html": "/AI-Emojis/index.html",
-    "precache-manifest.921fc3fd2658b6dfc320b5021b933939.js": "/AI-Emojis/precache-manifest.921fc3fd2658b6dfc320b5021b933939.js",
-    "service-worker.js": "/AI-Emojis/service-worker.js",
-    "static/css/main.d2015af3.chunk.css.map": "/AI-Emojis/static/css/main.d2015af3.chunk.css.map",
-    "static/js/2.f748b66b.chunk.js.LICENSE.txt": "/AI-Emojis/static/js/2.f748b66b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/AI-Emojis/static/media/hero-bg.5cf585fb.png"
+    "main.css": "/FaceEmotionDetector/static/css/main.97664417.chunk.css",
+    "main.js": "/FaceEmotionDetector/static/js/main.cf73c954.chunk.js",
+    "main.js.map": "/FaceEmotionDetector/static/js/main.cf73c954.chunk.js.map",
+    "runtime-main.js": "/FaceEmotionDetector/static/js/runtime-main.d798d5a5.js",
+    "runtime-main.js.map": "/FaceEmotionDetector/static/js/runtime-main.d798d5a5.js.map",
+    "static/js/2.f748b66b.chunk.js": "/FaceEmotionDetector/static/js/2.f748b66b.chunk.js",
+    "static/js/2.f748b66b.chunk.js.map": "/FaceEmotionDetector/static/js/2.f748b66b.chunk.js.map",
+    "index.html": "/FaceEmotionDetector/index.html",
+    "precache-manifest.a9cdd879ecb8e4f32c92d216e13418ad.js": "/FaceEmotionDetector/precache-manifest.a9cdd879ecb8e4f32c92d216e13418ad.js",
+    "service-worker.js": "/FaceEmotionDetector/service-worker.js",
+    "static/css/main.97664417.chunk.css.map": "/FaceEmotionDetector/static/css/main.97664417.chunk.css.map",
+    "static/js/2.f748b66b.chunk.js.LICENSE.txt": "/FaceEmotionDetector/static/js/2.f748b66b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/FaceEmotionDetector/static/media/hero-bg.5cf585fb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.183272f1.js",
+    "static/js/runtime-main.d798d5a5.js",
     "static/js/2.f748b66b.chunk.js",
-    "static/css/main.d2015af3.chunk.css",
+    "static/css/main.97664417.chunk.css",
     "static/js/main.cf73c954.chunk.js"
   ]
 }
