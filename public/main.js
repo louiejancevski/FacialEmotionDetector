@@ -49,7 +49,7 @@ video.addEventListener('play', () => {
 		faceapi.draw.drawFaceExpressions(canvas, resizedDetections)
 
 		if (detections.length > 0) {
-			//Got to all face detections
+			//For each face detection
 			detections.forEach((element) => {
 				let status = ''
 				let valueStatus = 0.0
