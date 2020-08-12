@@ -15,7 +15,7 @@ Once the app detects your face, it will do two things:
 - Change the background color.
 - Replace the default emoji with the one that it thinks is the best match to your expression.
 
-Face-API.js was used to faciliate this process. You can read more about it [here]https://justadudewhohacks.github.io/face-api.js/docs/).
+Face-API.js was used to faciliate this process. You can read more about it [here](https://justadudewhohacks.github.io/face-api.js/docs/).
 
 Note: You are not being recorded, it all happens in your own browser!
 
