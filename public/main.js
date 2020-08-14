@@ -5,13 +5,15 @@ const app = document.getElementById('app')
 
 //Start video
 startVideo = () => {
-	navigator.getUserMedia(
-		{
-			video: {},
-		},
-		(stream) => (video.srcObject = stream),
-		(err) => console.log(err)
-	)
+	navigator.mediaDevices
+		.getUserMedia({ video: {} })
+		.then(
+			(stream) => {
+				video.srcObject = stream
+			},
+			(err) => console.error(err)
+		)
+		.catch((e) => console.log(e))
 }
 
 Promise.all([

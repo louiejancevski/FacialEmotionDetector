@@ -1,5 +1,5 @@
 {
-  "name": "faceapi",
+  "name": "facial-emotion-detector",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,7 +11,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.2"
   },
-  "homepage":"https://louiejancevski.github.io/FacialEmotionDetector",
+  "homepage":"",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
