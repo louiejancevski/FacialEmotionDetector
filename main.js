@@ -5,12 +5,11 @@ const app = document.getElementById('app')
 
 //Start video
 startVideo = () => {
-	navigator.getUserMedia(
-		{
-			video: {},
+	navigator.mediaDevices.getUserMedia({ video: {} }).then(
+		(stream) => {
+			video.srcObject = stream
 		},
-		(stream) => (video.srcObject = stream),
-		(err) => console.log(err)
+		(err) => console.error(err)
 	)
 }
 
