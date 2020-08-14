@@ -11,5 +11,11 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "permissions": {
+    "video-capture": {
+      "description": "Required to capture video using getUserMedia()"
+    }
+  }
 }
+
