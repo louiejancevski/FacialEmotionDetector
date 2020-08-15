@@ -42,14 +42,14 @@ The emoji gets changed, and the background color gets updated as well.
 
 ## Detectable expressions
 
-- Default: { emoji: '😐' }
-- Neutral: { emoji: '😐' }
-- Happy: { emoji: '😀' }
-- Sad: { emoji: '😥' }
-- Angry: { emoji: '😠' }
-- Fearful: { emoji: '😨' }
-- Disgusted: { emoji: '🤢' }
-- Surprised: { emoji: '😲' }
+- Default:  😐
+- Neutral:  😐
+- Happy:  😀
+- Sad:  😥
+- Angry:  😠
+- Fearful:  😨
+- Disgusted:  🤢
+- Surprised:  😲
 
 ## Browsers support 
 
