@@ -3,7 +3,7 @@
 - Web app that detects your face emotions using AI and matches them with emojis.
 - Built using ReactJS and face-API.js
 - Face-API.js is a JavaScript API for face detection and face recognition in the browser implemented on top of the tensorflow.js core API.
-- Version 1.0
+- Version 2.0
 
 ## URL / Live demo
 - [louiejancevski.github.io/FacialEmotionDetector/](https://louiejancevski.github.io/FacialEmotionDetector/)
@@ -24,23 +24,30 @@ I'm going to take Dwayne Johnson, The Rock, as an example to showcase the site.
 
 Very straightforward. 
 
-Whenever he smiles, the emoji turns into a lauging emoji, and the background color changes to gree.
+Whenever he smiles, the emoji turns into a lauging emoji, and the background color changes to green.
 
 ![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo.png)
 
 On the other side,
 
-If he looks a bit angry, the app will also catch that and display the right emoji and background color. 
+If he looks angry, the app will also catch that and display the right emoji and background color. 
 
 ![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo1.png)
 
-Same thing happens whenever the expression might look a bit neutral. 
+Same thing happens whenever his facial expression might look a bit neutral. 
 
 The emoji gets changed, and the background color gets updated as well.
 
 ![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo2.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Browsers support 
+
+Here are some of the browsers that I've tested this website in:
+
+| [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Safari |
+| --------- | --------- | --------- |
+| last version| last version| last version
+
  
 ## Available Scripts
 
@@ -70,6 +77,8 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Learn More
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
