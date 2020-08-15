@@ -40,6 +40,17 @@ The emoji gets changed, and the background color gets updated as well.
 
 ![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo2.png)
 
+## Detectable expressions
+
+ - Default: { emoji: '😐' }
+	- Neutral: { emoji: '😐' }
+	- Happy: { emoji: '😀' }
+	- Sad: { emoji: '😥' }
+	- Angry: { emoji: '😠' }
+	- Fearful: { emoji: '😨' }
+	- Disgusted: { emoji: '🤢' }
+	- Surprised: { emoji: '😲' }
+
 ## Browsers support 
 
 Here are some of the browsers that I've tested:
