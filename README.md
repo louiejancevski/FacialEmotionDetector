@@ -40,14 +40,29 @@ The emoji gets changed, and the background color gets updated as well.
 
 ![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo2.png)
 
+## Detectable expressions
+
+- Default:  😐
+- Neutral:  😐
+- Happy:  😀
+- Sad:  😥
+- Angry:  😠
+- Fearful:  😨
+- Disgusted:  🤢
+- Surprised:  😲
+
 ## Browsers support 
 
-Here are some of the browsers that I've tested this website in:
+Here are some of the browsers that I've tested:
 
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Safari |
 | --------- | --------- | --------- |
 | last version| last version| last version
 
+
+## Other notes
+
+Make sure to also wait a few seconds after your camera is loaded and that your face is close enough to the computer so that it can properly work.
  
 ## Available Scripts
 
@@ -78,7 +93,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Learn More
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
