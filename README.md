@@ -48,6 +48,10 @@ Here are some of the browsers that I've tested this website in:
 | --------- | --------- | --------- |
 | last version| last version| last version
 
+
+## Other notes
+
+Make sure to also wait a few seconds after your camera is loaded and that your face is close enough to the computer so that it can properly work.
  
 ## Available Scripts
 
