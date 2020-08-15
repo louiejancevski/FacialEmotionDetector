@@ -3,7 +3,7 @@
 - Web app that detects your face emotions using AI and matches them with emojis.
 - Built using ReactJS and face-API.js
 - Face-API.js is a JavaScript API for face detection and face recognition in the browser implemented on top of the tensorflow.js core API.
-- Version 1.0
+- Version 2.0
 
 ## URL / Live demo
 - [louiejancevski.github.io/FacialEmotionDetector/](https://louiejancevski.github.io/FacialEmotionDetector/)
