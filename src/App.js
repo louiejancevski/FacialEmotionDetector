@@ -16,7 +16,7 @@ function App() {
 						<div className="browserChrome">
 							<div className="browserActions"></div>
 						</div>
-						<canvas id="canvas"></canvas>
+						<canvas id="canvas"> </canvas>
 						<video id="video" width="540" height="405" muted autoPlay></video>
 					</div>
 				</div>
