@@ -109,7 +109,7 @@ video.addEventListener('play', () => {
 			})
 		} else {
 			//If not face was detected
-			
+
 			//Set default emoji
 			emoji.innerHTML = statusIcons['default'].emoji
 
