@@ -42,7 +42,7 @@ The emoji gets changed, and the background color gets updated as well.
 
 ## Browsers support 
 
-Here are some of the browsers that I've tested this website in:
+Here are some of the browsers that I've tested:
 
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Safari |
 | --------- | --------- | --------- |
@@ -82,7 +82,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Learn More
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
