@@ -61,9 +61,11 @@ Here are some of the browsers that I've tested:
 
 
 ## Other notes
+For this app to properly work, make sure that:
+- Your room has good lighting
+- Your face is close enough to the computer
+- And that you give it a few seconds after your camera is loaded, so that it can accurately detect your face
 
-Make sure to also wait a few seconds after your camera is loaded and that your face is close enough to the computer so that it can properly work.
- 
 ## Available Scripts
 
 In the project directory, you can run:
