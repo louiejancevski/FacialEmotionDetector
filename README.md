@@ -48,7 +48,6 @@ Here are some of the browsers that I've tested this website in:
 | --------- | --------- | --------- |
 | last version| last version| last version
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
  
 ## Available Scripts
 
@@ -78,6 +77,8 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Learn More
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
