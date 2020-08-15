@@ -24,21 +24,29 @@ I'm going to take Dwayne Johnson, The Rock, as an example to showcase the site.
 
 Very straightforward. 
 
-Whenever he smiles, the emoji turns into a lauging emoji, and the background color changes to gree.
+Whenever he smiles, the emoji turns into a lauging emoji, and the background color changes to green.
 
 ![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo.png)
 
 On the other side,
 
-If he looks a bit angry, the app will also catch that and display the right emoji and background color. 
+If he looks angry, the app will also catch that and display the right emoji and background color. 
 
 ![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo1.png)
 
-Same thing happens whenever the expression might look a bit neutral. 
+Same thing happens whenever his facial expression might look a bit neutral. 
 
 The emoji gets changed, and the background color gets updated as well.
 
 ![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo2.png)
+
+## Browsers support 
+
+Here are some of the browser that I've tested it this site in:
+
+| [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Safari |
+| --------- | --------- | --------- |
+| last version| last version| last version
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
  
