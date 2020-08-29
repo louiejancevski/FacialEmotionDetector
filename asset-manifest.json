@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/FacialEmotionDetector/static/css/main.c1487ad9.chunk.css",
-    "main.js": "/FacialEmotionDetector/static/js/main.8aca4c95.chunk.js",
-    "main.js.map": "/FacialEmotionDetector/static/js/main.8aca4c95.chunk.js.map",
+    "main.css": "/FacialEmotionDetector/static/css/main.d3acd876.chunk.css",
+    "main.js": "/FacialEmotionDetector/static/js/main.08c552af.chunk.js",
+    "main.js.map": "/FacialEmotionDetector/static/js/main.08c552af.chunk.js.map",
     "runtime-main.js": "/FacialEmotionDetector/static/js/runtime-main.005ee6e1.js",
     "runtime-main.js.map": "/FacialEmotionDetector/static/js/runtime-main.005ee6e1.js.map",
     "static/js/2.63482c85.chunk.js": "/FacialEmotionDetector/static/js/2.63482c85.chunk.js",
     "static/js/2.63482c85.chunk.js.map": "/FacialEmotionDetector/static/js/2.63482c85.chunk.js.map",
     "index.html": "/FacialEmotionDetector/index.html",
-    "precache-manifest.2fa122f2a3c22e5a6b0d3de9eef3a091.js": "/FacialEmotionDetector/precache-manifest.2fa122f2a3c22e5a6b0d3de9eef3a091.js",
+    "precache-manifest.a03592eab6a5001f96a714a502759463.js": "/FacialEmotionDetector/precache-manifest.a03592eab6a5001f96a714a502759463.js",
     "service-worker.js": "/FacialEmotionDetector/service-worker.js",
-    "static/css/main.c1487ad9.chunk.css.map": "/FacialEmotionDetector/static/css/main.c1487ad9.chunk.css.map",
+    "static/css/main.d3acd876.chunk.css.map": "/FacialEmotionDetector/static/css/main.d3acd876.chunk.css.map",
     "static/js/2.63482c85.chunk.js.LICENSE.txt": "/FacialEmotionDetector/static/js/2.63482c85.chunk.js.LICENSE.txt",
     "static/media/App.css": "/FacialEmotionDetector/static/media/hero-bg.5cf585fb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.005ee6e1.js",
     "static/js/2.63482c85.chunk.js",
-    "static/css/main.c1487ad9.chunk.css",
-    "static/js/main.8aca4c95.chunk.js"
+    "static/css/main.d3acd876.chunk.css",
+    "static/js/main.08c552af.chunk.js"
   ]
 }

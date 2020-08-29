@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FacialEmotionDetector/precache-manifest.2fa122f2a3c22e5a6b0d3de9eef3a091.js"
+  "/FacialEmotionDetector/precache-manifest.a03592eab6a5001f96a714a502759463.js"
 );
 
 self.addEventListener('message', (event) => {
