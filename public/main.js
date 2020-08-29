@@ -54,7 +54,7 @@ Promise.all([faceapi.nets.tinyFaceDetector.loadFromUri('./models'), faceapi.nets
 
 let statusIcons = {
 	default: { emoji: '😐', color: '#02c19c' },
-	neutral: { emoji: '😐', color: '#02c19c' },
+	neutral: { emoji: '😐', color: '#54adad' },
 	happy: { emoji: '😀', color: '#148f77' },
 	sad: { emoji: '😥', color: '#767e7e' },
 	angry: { emoji: '😠', color: '#b64518' },

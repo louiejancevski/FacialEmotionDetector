@@ -2,11 +2,6 @@ body {
 	user-select: none;
 	-moz-user-select: none;
 }
-.app {
-	overflow: hidden;
-	background-color: #16a085;
-	background-image: url('./Images/hero-bg.png');
-}
 
 .app {
 	margin: 0;
@@ -15,7 +10,18 @@ body {
 	height: 100vh;
 	justify-content: center;
 	align-items: center;
+	overflow: hidden;
+	background-color: #16a085;
 }
+
+.overlay {
+	background-image: url('./Images/hero-bg.png');
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	opacity: 0.3;
+}
+
 .note {
 	text-align: center;
 	width: 100%;

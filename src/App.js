@@ -5,6 +5,7 @@ function App() {
 	return (
 		<>
 			<div id="app" className="app">
+				<div class="overlay"></div>
 				<div className="text">
 					<span aria-label="emoji" role="img" id="emoji">
 						😐
@@ -20,9 +21,7 @@ function App() {
 						<video id="video" width="540" height="405" muted autoPlay></video>
 					</div>
 				</div>
-				<p className="note">
-					You are not being recorded, it all happens in your own browser!
-				</p>
+				<p className="note">You are not being recorded, it all happens in your own browser!</p>
 			</div>
 		</>
 	)
