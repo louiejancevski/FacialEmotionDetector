@@ -16,15 +16,12 @@ startVideo = () => {
 	if (navigator.mediaDevices.getUserMedia === undefined) {
 		navigator.mediaDevices.getUserMedia = function (constraints) {
 			// First get ahold of the legacy getUserMedia, if present
-			var getUserMedia =
-				navigator.webkitGetUserMedia || navigator.mozGetUserMedia
+			var getUserMedia = navigator.webkitGetUserMedia || navigator.mozGetUserMedia
 
 			// Some browsers just don't implement it - return a rejected promise with an error
 			// to keep a consistent interface
 			if (!getUserMedia) {
-				return Promise.reject(
-					new Error('getUserMedia is not implemented in this browser')
-				)
+				return Promise.reject(new Error('getUserMedia is not implemented in this browser'))
 			}
 
 			// Otherwise, wrap the call to the old navigator.getUserMedia with a Promise
@@ -53,16 +50,11 @@ startVideo = () => {
 		})
 }
 
-Promise.all([
-	faceapi.nets.tinyFaceDetector.loadFromUri('./models'),
-	faceapi.nets.faceLandmark68Net.loadFromUri('./models'),
-	faceapi.nets.faceRecognitionNet.loadFromUri('./models'),
-	faceapi.nets.faceExpressionNet.loadFromUri('./models'),
-]).then(startVideo)
+Promise.all([faceapi.nets.tinyFaceDetector.loadFromUri('./models'), faceapi.nets.faceLandmark68Net.loadFromUri('./models'), faceapi.nets.faceRecognitionNet.loadFromUri('./models'), faceapi.nets.faceExpressionNet.loadFromUri('./models')]).then(startVideo)
 
 let statusIcons = {
-	default: { emoji: '😐', color: '#008797' },
-	neutral: { emoji: '😐', color: '#008797' },
+	default: { emoji: '😐', color: '#02c19c' },
+	neutral: { emoji: '😐', color: '#02c19c' },
 	happy: { emoji: '😀', color: '#148f77' },
 	sad: { emoji: '😥', color: '#767e7e' },
 	angry: { emoji: '😠', color: '#b64518' },
@@ -79,9 +71,7 @@ video.addEventListener('play', () => {
 	faceapi.matchDimensions(canvas, displaySize)
 
 	setInterval(async () => {
-		const detections = await faceapi
-			.detectAllFaces(video, new faceapi.TinyFaceDetectorOptions())
-			.withFaceExpressions()
+		const detections = await faceapi.detectAllFaces(video, new faceapi.TinyFaceDetectorOptions()).withFaceExpressions()
 		const resizedDetections = faceapi.resizeResults(detections, displaySize)
 		canvas.getContext('2d').clearRect(0, 0, canvas.width, canvas.height)
 		faceapi.draw.drawDetections(canvas, resizedDetections)
