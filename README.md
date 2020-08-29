@@ -6,7 +6,7 @@
 - Version 2.0
 
 ## URL / Live demo
-- [louiejancevski.github.io/FacialEmotionDetector/](https://louiejancevski.github.io/FacialEmotionDetector/)
+- [louiejancevski.github.io/FacialEmotionDetector](https://louiejancevski.github.io/FacialEmotionDetector/)
 
 ## About this project
 The main objective was very simple, to display emojis based on the facial expressions that we make in front of our camera.
@@ -53,17 +53,17 @@ The emoji gets changed, and the background color gets updated as well.
 
 ## Browsers support 
 
-Here are some of the browsers that I've tested:
-
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Safari |
 | --------- | --------- | --------- |
-| last version| last version| last version
+| last version| last version| last version 
 
 
 ## Other notes
+For this app to properly work, make sure that:
+- Your room has good lighting
+- Your face is close enough to the computer
+- And that you give it a few seconds after your camera is loaded, so that it can accurately detect your face
 
-Make sure to also wait a few seconds after your camera is loaded and that your face is close enough to the computer so that it can properly work.
- 
 ## Available Scripts
 
 In the project directory, you can run:
